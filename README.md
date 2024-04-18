@@ -1,4 +1,4 @@
-### ✨ Im Shayan Heydari ✨
+### ✨ I'm Shayan Heydari ✨
 
 <!--
 **shayan881/shayan881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
